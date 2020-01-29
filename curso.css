@@ -1,0 +1,17 @@
+/* 
+Curso de Bootstrap - index.php no localhost/curso
+*/
+
+
+
+/* IDs */
+#tamanhoContainer{
+    max-width: 500px;
+}
+#botao{
+    background-color: #899752;
+    color: #FFFFFF;
+}
+
+
+/* CLASSES */
